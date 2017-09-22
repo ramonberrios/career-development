@@ -61,21 +61,18 @@ Before we can begin we need to make sure we have some basics set up. This should
 
 Welcome to our first week! I'm excited to kick off this journey with you.
 
-###Monday
-####Activities
+### Monday
 
 * Overview of CTS partnership with Per Scholas
 * Group discussion on telling your story and the importance of perfecting your first impression
 * Understanding the job requirements (tech vs. soft skills)
 
-###Tuesday
-####Activities
+### Tuesday
 
 * Exercise: [Assess your soft skills](./softskills.md)
 * Problem solving and decision making
 
-###Wednesday
-####Activities
+### Wednesday
 
 * [Review Sample Pitch](./LinkedIn.md)
 * Organizing your time around tasks (onsite vs remote)
