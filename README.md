@@ -1,97 +1,101 @@
-# career-development
+![Imgur](https://i.imgur.com/Zr235Mq.jpg)
 
-# (GitHub-Flavored) Markdown Editor
+# Career Development
 
-Basic useful feature list:
+## Career Support Guide - Quality Engineering 
 
- * Ctrl+S / Cmd+S to save the file
- * Ctrl+Shift+S / Cmd+Shift+S to choose to save as Markdown or HTML
- * Drag and drop a file into here to load it
- * File contents are saved in the URL so you can share files
+Congratulations on being accepted to the Quality Engineering Training. In this guide, will be everything that will be covered over the next 8 weeks. The Careers Team is excited to work with you on your journey through this course and into your career.
 
+The Careers Team will help you build a foundation for your current and post employment jouney. We will provide you with the tools, resources, are best practices.
 
-I'm no good at writing sample / filler text, so go write something yourself.
+### Contact Information
 
-Look, a list!
+#####Zamira Kamal, Senior Manager, Partnerships
 
- * foo
- * bar
- * baz
+- Email - zkamal@perscholas.org
+- Phone - 929-360-0822 Ext. 406
+- LinkedIn - <a href="https://www.linkedin.com/in/zamirakamal/">Zamira Kamal</a>
+- Github - (Coming Soon)
 
-And here's some code! :+1:
+#####Ramon Berrios, Manager, Career Advancement
 
-```javascript
-$(function(){
-  $('div').html('I am a div.');
-});
-```
+- Email - rberrios@perscholas.org
+- Phone - 929-360-0822 Ext. 406
+- LinkedIn - <a href="https://www.linkedin.com/in/ramonberrios/">Ramon Berrios</a>
+- Github - <a href="https://github.com/ramonberrios">ramonberrios</a>
 
-Soft skills and job readiness agenda
+### Careers Development Schedule
 
-Week1       Business Competencies
-Introduction:
-●	Overview of CTS partnership with Per Scholas
-●	Understanding the job requirements (tech. vs soft skills)
-●	Exercise: “Assess your soft skills”
-●	Problem solving and decision making
-●	Organising your time around tasks (onsite vs.remote)
+Career Development Classes are scheduled to run each day from 9am - 10am. Depending on class needs and scheduling conflicts this time is subject to change
 
-Week2       
-Soft skills: 
-●	Consulting skills and Customer Service
-●	Communication (verbal and non-verbal)
-●	Presentation and public speaking
+### Prep Work
+Before we can begin we need to make sure we have some basics set up. This should be completed prior to the first class
 
-Week3
-Preparation for the case study:             
-●	Business Project Management skills
-●	Working in the teams
-●	Leadership
-      
-Week4            
-Case Study to demonstrate:
-●	Project Mgmt, Customer Service, Presentation skills and Teamwork
-●	Get feedback and identify areas for improvement
-      
-
-Week 5         
-Job readiness:
-●	Career Plan assessment
-●	Build your portfolio: Resume, Marketing Pitch, LinkedIn
-●	Interview prep.guides, Personal Branding & Networking
-
-      
-Week6       l
-Mock interviews:
-●	30-40 min.interview (virtual/on-site)
-●	Collect and provide feedback
-      
-Week7      
-   Mock interviews:
-●	Interview prep.for Cognizant
-●	Collect and provide feedback
-
-Week8
-●	 Final portfolio review and presentation    
-●	Introduction to CTS team
-
-Post-training services:
-Job search tools 
-Individual career counseling and job coaching
-Career portal access
+* Create <a href="https://github.com/">Github Account</a>
+* Create <a href="https://www.linkedin.com">LinkedIn Account</a>
+* Create <a href="https://www.meetup.com/">Meetup Account</a>
+* Create <a href="https://trello.com/">Trello Account</a>
+* Create <a href="https://slack.com/">Slack Account</a>
+* Create <a href="http://creddle.io/">Creddle Account</a> - Optional for resume creation
 
 
+<table>
+  <tr>
+  <th colspan="6">Quick Reference for Each Week</th>
+  </tr>
+
+  <tr>
+  <td><a href="#week-1">Week 1</a></a></td>
+  <td><a href="#week-2">Week 2</a></td>
+  <td><a href="#wednesday">Week 3</a></td>
+  <td><a href="#thursday">Week 4</a></td>
+  <td><a href="#friday">Week 5</a></td>
+  <td><a href="#friday">Week 6</a></td>
+  <td><a href="#friday">Week 7</a></td>
+  <td><a href="#friday">Week 8</a></td>
+  </tr>
+</table>
 
 
+## Week 1
 
-# MacDown
+Welcome to our first week! I'm excited to kick off this journey with you.
 
-![MacDown logo](http://macdown.uranusjr.com/static/images/logo-160.png)
+###Monday
+####Activities
+
+* Overview of CTS partnership with Per Scholas
+* Group discussion on telling your story and the importance of perfecting your first impression
+* Understanding the job requirements (tech vs. soft skills)
+
+###Tuesday
+####Activities
+
+* Exercise: [Assess your soft skills](./softskills.md)
+* Problem solving and decision making
+
+###Wednesday
+####Activities
+
+* [Review Sample Pitch](./LinkedIn.md)
+* Organizing your time around tasks (onsite vs remote)
+* [Input Story into Resume, LinkedIn, Cover Letter, In Person Pitch](./LinkedIn.md)
+
+
+### Prep for Next Week
+
+* Continue working on your pitch, get comfortable with talking about yourself
+* Have current/old resume for content transfer
+
+
+### Stretch Activities
+
+* Transfer resume content to creddle.io account or begin working on resume draft
 
 Hello there! I’m **MacDown**, the open source Markdown editor for OS X.
 
-Let me introduce myself.
 
+Let me introduce myself.
 
 
 ## Markdown and I
@@ -433,6 +437,3 @@ Happy writing!
 [^quote]: **Quote** replaces literal `"` characters with html `<q>` tags. **Quote** and **Smartypants** are syntactically incompatible. If both are enabled, **Quote** takes precedence. Note that **Quote** is different from *blockquote*, which is part of standard Markdown.
 
 [^math]: Internet connection required.
-
-
-
