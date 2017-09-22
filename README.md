@@ -10,14 +10,14 @@ The Careers Team will help you build a foundation for your current and post empl
 
 ### Contact Information
 
-####Zamira Kamal, Senior Manager, Partnerships
+##### Zamira Kamal, Senior Manager, Partnerships
 
 - Email - zkamal@perscholas.org
 - Phone - 929-360-0822 Ext. 406
 - LinkedIn - <a href="https://www.linkedin.com/in/zamirakamal/">Zamira Kamal</a>
 - Github - (Coming Soon)
 
-####Ramon Berrios, Manager, Career Advancement
+##### Ramon Berrios, Manager, Career Advancement
 
 - Email - rberrios@perscholas.org
 - Phone - 929-360-0822 Ext. 406
