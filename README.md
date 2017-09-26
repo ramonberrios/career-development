@@ -78,6 +78,11 @@ Welcome to our first week! I'm excited to kick off this journey with you.
 * Organizing your time around tasks (onsite vs remote)
 * [Input Story into Resume, LinkedIn, Cover Letter, In Person Pitch](./LinkedIn.md)
 
+### Thursday
+
+### Friday
+
+## Week 2
 
 ### Prep for Next Week
 
