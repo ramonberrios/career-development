@@ -80,9 +80,202 @@ Welcome to our first week! I'm excited to kick off this journey with you.
 
 ### Thursday
 
+* Exercise: [Assess your soft skills](./softskills.md)
+* Problem solving and decision making
+
 ### Friday
 
+* Exercise: [Assess your soft skills](./softskills.md)
+* Problem solving and decision making
+
 ## Week 2
+
+### Monday
+
+* Exercise: [Assess your soft skills](./softskills.md)
+* Problem solving and decision making
+
+### Tuesday
+
+* Exercise: [Assess your soft skills](./softskills.md)
+* Problem solving and decision making
+
+### Wednesday
+
+* Exercise: [Assess your soft skills](./softskills.md)
+* Problem solving and decision making
+
+### Thursday
+
+* Exercise: [Assess your soft skills](./softskills.md)
+* Problem solving and decision making
+
+### Friday
+
+* Exercise: [Assess your soft skills](./softskills.md)
+* Problem solving and decision making
+
+## Week 3
+
+### Monday
+
+* Exercise: [Assess your soft skills](./softskills.md)
+* Problem solving and decision making
+
+### Tuesday
+
+* Exercise: [Assess your soft skills](./softskills.md)
+* Problem solving and decision making
+
+### Wednesday
+
+* Exercise: [Assess your soft skills](./softskills.md)
+* Problem solving and decision making
+
+### Thursday
+
+* Exercise: [Assess your soft skills](./softskills.md)
+* Problem solving and decision making
+
+### Friday
+
+* Exercise: [Assess your soft skills](./softskills.md)
+* Problem solving and decision making
+
+## Week 4
+
+### Monday
+
+* Exercise: [Assess your soft skills](./softskills.md)
+* Problem solving and decision making
+
+### Tuesday
+
+* Exercise: [Assess your soft skills](./softskills.md)
+* Problem solving and decision making
+
+### Wednesday
+
+* Exercise: [Assess your soft skills](./softskills.md)
+* Problem solving and decision making
+
+### Thursday
+
+* Exercise: [Assess your soft skills](./softskills.md)
+* Problem solving and decision making
+
+### Friday
+
+* Exercise: [Assess your soft skills](./softskills.md)
+* Problem solving and decision making
+
+## Week 5
+
+### Monday
+
+* Exercise: [Assess your soft skills](./softskills.md)
+* Problem solving and decision making
+
+### Tuesday
+
+* Exercise: [Assess your soft skills](./softskills.md)
+* Problem solving and decision making
+
+### Wednesday
+
+* Exercise: [Assess your soft skills](./softskills.md)
+* Problem solving and decision making
+
+### Thursday
+
+* Exercise: [Assess your soft skills](./softskills.md)
+* Problem solving and decision making
+
+### Friday
+
+* Exercise: [Assess your soft skills](./softskills.md)
+* Problem solving and decision making
+
+## Week 6
+
+### Monday
+
+* Exercise: [Assess your soft skills](./softskills.md)
+* Problem solving and decision making
+
+### Tuesday
+
+* Exercise: [Assess your soft skills](./softskills.md)
+* Problem solving and decision making
+
+### Wednesday
+
+* Exercise: [Assess your soft skills](./softskills.md)
+* Problem solving and decision making
+
+### Thursday
+
+* Exercise: [Assess your soft skills](./softskills.md)
+* Problem solving and decision making
+
+### Friday
+
+* Exercise: [Assess your soft skills](./softskills.md)
+* Problem solving and decision making
+
+## Week 7
+
+### Monday
+
+* Exercise: [Assess your soft skills](./softskills.md)
+* Problem solving and decision making
+
+### Tuesday
+
+* Exercise: [Assess your soft skills](./softskills.md)
+* Problem solving and decision making
+
+### Wednesday
+
+* Exercise: [Assess your soft skills](./softskills.md)
+* Problem solving and decision making
+
+### Thursday
+
+* Exercise: [Assess your soft skills](./softskills.md)
+* Problem solving and decision making
+
+### Friday
+
+* Exercise: [Assess your soft skills](./softskills.md)
+* Problem solving and decision making
+
+## Week 8
+
+### Monday
+
+* Exercise: [Assess your soft skills](./softskills.md)
+* Problem solving and decision making
+
+### Tuesday
+
+* Exercise: [Assess your soft skills](./softskills.md)
+* Problem solving and decision making
+
+### Wednesday
+
+* Exercise: [Assess your soft skills](./softskills.md)
+* Problem solving and decision making
+
+### Thursday
+
+* Exercise: [Assess your soft skills](./softskills.md)
+* Problem solving and decision making
+
+### Friday
+
+* Exercise: [Assess your soft skills](./softskills.md)
+* Problem solving and decision making
 
 ### Prep for Next Week
 
