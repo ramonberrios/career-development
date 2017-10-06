@@ -5,7 +5,8 @@
 
 Impostor syndrome (also known as impostor phenomenon or fraud syndrome or the impostor experience) is a concept describing individuals who are marked by an inability to internalize their accomplishments and a persistent fear of being exposed as a "fraud". 
 
-### Lets take a Self-Assessment
+### Video then Self-Assessment
+* <a href="https://www.youtube.com/watch?v=1i8ylq4j_EY">Julie Pagano: It's Dangerous to go alone: Battling the invisible monsters in tech </a>
 * We are going to take a look at a self assessment created in the book <a href="https://www.amazon.com/Impostor-Phenomenon-When-Success-Makes/dp/0553257307">"The Impostor Phenomenon: When Success Makes You Feel Like a Fake"</a>
 * The Self Assesment can be found <a href="http://www.lcldnet.org/media/mce_filebrowser/2016/04/20/VKC-Impostor-Syndrome-Self-Assessment-Tool-Final.pdf">here</a>
 
@@ -61,6 +62,6 @@ With this explanatory style Mike is at risk of giving up on himself, is less lik
 
 6) Recognize that the perfect performer doesn’t exist, and that problems will pop up eventually. Take them as little fires under you that make you move forward.
 
-7) Be proud of being humble. (Very Important)
+7) Be proud of being humble.
 
 8) Remember that it’s okay to seek help from others, and that even the best do it.
