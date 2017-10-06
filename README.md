@@ -177,7 +177,7 @@ Welcome to our first week! I'm excited to kick off this journey with you.
 
 ### Tuesday
 
-* Exercise: [Assess your soft skills](./softskills.md)
+* Exercise: [Dunning-Kruger Effect](./dunningkruger.md)
 * Problem solving and decision making
 
 ### Wednesday
