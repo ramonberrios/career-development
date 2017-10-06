@@ -61,6 +61,6 @@ With this explanatory style Mike is at risk of giving up on himself, is less lik
 
 6) Recognize that the perfect performer doesn’t exist, and that problems will pop up eventually. Take them as little fires under you that make you move forward.
 
-7) Be proud of being humble.
+7) Be proud of being humble. (Very Important)
 
 8) Remember that it’s okay to seek help from others, and that even the best do it.
