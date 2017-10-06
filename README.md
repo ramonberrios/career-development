@@ -172,7 +172,7 @@ Welcome to our first week! I'm excited to kick off this journey with you.
 
 ### Monday
 
-* Exercise: [Imposter Syndrome](./softskills.md)
+* Exercise: [Imposter Syndrome](./impostersyndrome.md)
 * Problem solving and decision making
 
 ### Tuesday
