@@ -10,19 +10,18 @@ The Careers Team will help you build a foundation for your current and post empl
 
 ### Contact Information
 
-##### Zamira Kamal, Senior Manager, Partnerships
-
-- Email - zkamal@perscholas.org
-- Phone - 929-360-0822 Ext. 406
-- LinkedIn - <a href="https://www.linkedin.com/in/zamirakamal/">Zamira Kamal</a>
-- Github - (Coming Soon)
-
 ##### Ramon Berrios, Manager, Career Advancement
 
 - Email - rberrios@perscholas.org
 - Phone - 929-360-0822 Ext. 406
 - LinkedIn - <a href="https://www.linkedin.com/in/ramonberrios/">Ramon Berrios</a>
 - Github - <a href="https://github.com/ramonberrios">ramonberrios</a>
+
+##### Zamira Kamal, Senior Manager, Partnerships
+
+- Email - zkamal@perscholas.org
+- Phone - 929-360-0822 Ext. 406
+- LinkedIn - <a href="https://www.linkedin.com/in/zamirakamal/">Zamira Kamal</a>
 
 ### Careers Development Schedule
 
@@ -173,7 +172,7 @@ Welcome to our first week! I'm excited to kick off this journey with you.
 
 ### Monday
 
-* Exercise: [Assess your soft skills](./softskills.md)
+* Exercise: [Imposter Syndrome](./softskills.md)
 * Problem solving and decision making
 
 ### Tuesday
