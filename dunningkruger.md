@@ -1,10 +1,10 @@
-# Dunning–Kruger effect
+# Dunning–Kruger Effect
 
 ![Imgur](https://i.imgur.com/PPQC50zb.jpg)
 
 ### What is it? 
 
-Impostor syndrome (also known as impostor phenomenon or fraud syndrome or the impostor experience) is a concept describing individuals who are marked by an inability to internalize their accomplishments and a persistent fear of being exposed as a "fraud". 
+Occurs where people fail to adequately assess their level of competence — or specifically, their incompetence — at a task and thus consider themselves much more competent than everyone else. This lack of awareness is attributed to their lower level of competence robbing them of the ability to critically analyse their performance, leading to a significant overestimation of themselves.
 
 Share URL
 Summary: Is the tester doing a good job or a bad job when she proves that the program is full of bugs? It’s a bad job from some developers’ points of view. Ridiculous as it seems, there are project managers blaming testers for the late shipment of a product and developers complaining (often jokingly) that “the testers are too tough on the program.” Obviously, there is more to successful testing than bug counts. Here are some tips about how testers can build successful relationships with developers.
