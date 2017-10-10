@@ -39,58 +39,9 @@ A smart tester is one who keeps a balance between listening and implementing. If
 * Book on Imposter Syndrome <a href="https://www.amazon.com/Impostor-Phenomenon-When-Success-Makes/dp/0553257307">"The Impostor Phenomenon: When Success Makes You Feel Like a Fake"</a>
 * Self Assesment <a href="http://www.lcldnet.org/media/mce_filebrowser/2016/04/20/VKC-Impostor-Syndrome-Self-Assessment-Tool-Final.pdf">here</a>
 
-### Signs of Imposter Syndrome
+### How to Handle the Pessimist in the group
+1. Create awareness. This is best done by pulling the team member aside and explaining how his comments are received. The rule when giving this type of feedback, says Jon Katzenbach, author of Wisdom of Teams and founder of the Katzenbach Center at Booz & Co., is to “be at least as positive as you are negative.” Explain why the person is valued on the team and make clear the impact of his behavior. For example, you can say, “When you make negative comments, the team gets stuck and we aren’t able to move forward.” Kramer points out, “This kind of conversation can be useful from a diagnostic perspective.” Once you understand the underlying reason for the pessimism, you can provide additional support or information if it’s needed.
 
-* Perfectionism
-* Overworking
-* Undermining your achievements
-* Fear of failure
-* Discounting praise
+2. Reposition negative statements. Negativity can fester and eventually kill a team’s momentum and motivation. Don’t let negative comments linger. Ask for clarification or more information about what the speaker means. For example, if a team member says, “This project is never going to make it past Finance,” ask the speaker to explain why she thinks that. Better yet, you can ask for alternative solutions: “What can we do to make sure the project does make it past Finance?” You can also ask team members to use “but statements.” Ask them to follow skeptical or critical sentences with “but.” For example, your team member could say “This project is never going to make it past Finance, BUT it’s worth laying the groundwork now because next year, Finance is apt to approve more tech projects.” It’s helpful to model this type of behavior for the entire team. Offer your own constructive criticism while providing an alternative solution.
 
-### Quicks facts on Imposter Syndrome
-* Impostor syndrome is not a formal mental disorder and does not have a standard definition, therefore there has not been a clear consensus as to treatment options available.
-* The syndrome has affected approximately 70% of the population worldwide
-* Reflecting upon impostor feelings is key to overcoming this burden.
-* Making a list of accomplishments, positive feedback and success stories will also aid to manage impostor syndrome
-* Developing a strong support system that provides feedback on performance and has discussions about impostor syndrome on a regular basis is imperative
-
-## Explanatory Styles
-
-![Imgur](https://i.imgur.com/otwfp8P.png)
-
-Consider two people, Mike and Ike, who both apply for a job at Vandelay Industries. Both are rejected.
-
-##### Mike is a pessimist. He assumes, rightly or wrongly, that the reason he missed out is 
-
-* personal (I wasn’t good enough)
-
-* and/or permanent (I’ll never get ahead)
-
-* and/or pervasive (this ruins everything -what’s the point of living).
-
-With this explanatory style Mike is at risk of giving up on himself, is less likely to try again and is also more vulnerable to depression.
-
-##### In contrast, Ben is an optimist. Faced with the identical setback he assumes the cause is 
-
-* non-personal (the best canidate got it)
-
-* and temporary (I had a hangover that day)
-
-* and non-pervasive (this impacted this job, but not my relationship, my hobbies, my friends, my job search, my gym membership etc -life goes on). 
-
-#### Steps to overcome imposter syndrome
-1) Recognize that it exsist
-
-2) When you receive positive feedback, embrace it with objectivity and internalize it. By denying it, you are hurting that person’s judgement.
-
-3) Don’t attribute your successes to luck.
-
-4) Don’t talk about your abilities or successes with words like “merely,” “only,” “simply,” etc.
-
-5) Keep a journal. Writing your successes and failures down gives you a retrospective insight about them, and re-reading them makes you remember equally both of them.
-
-6) Recognize that the perfect performer doesn’t exist, and that problems will pop up eventually. Take them as little fires under you that make you move forward.
-
-7) Be proud of being humble.
-
-8) Remember that it’s okay to seek help from others, and that even the best do it.
+3. Involve the whole team. It can be damaging to single out a team member in front of the entire team. Peer pressure is a far more effective tactic. According to Kramer, “Sometimes social sanctions work better than leader sanctions.” Set team norms and ask everyone to observe them. Goldsmith suggests that individuals ask themselves before they speak, “Will this comment help our customers? Will this help our company? Will this help the person or team we’re talking about? Will this help the person we’re talking to?” As Goldsmith points out, “Honesty may be the best policy except when it’s destructive and unhelpful.” Once you’ve agreed on norms, ask the team to hold each other to them. This approach can be used when you’re not the team leader as well. If a fellow team member is regularly negative, you can appeal to what Kramer calls “the collective wisdom” of the team by modeling positive behavior and using peer pressure to show the pessimist a more productive way of contributing. Of course as a peer, your influence is limited and you may need to talk with the team leader if your attempts to redirect the pessimist don’t work.
