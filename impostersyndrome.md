@@ -49,6 +49,8 @@ With this explanatory style Mike is at risk of giving up on himself, is less lik
 
 * and non-pervasive (this impacted this job, but not my relationship, my hobbies, my friends, my job search, my gym membership etc -life goes on). 
 
+![Imgur](https://i.imgur.com/z1fMuPm.png)
+
 #### Steps to overcome imposter syndrome
 1) Recognize that it exsist
 
