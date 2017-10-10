@@ -25,6 +25,12 @@ Impostor syndrome (also known as impostor phenomenon or fraud syndrome or the im
 * Making a list of accomplishments, positive feedback and success stories will also aid to manage impostor syndrome
 * Developing a strong support system that provides feedback on performance and has discussions about impostor syndrome on a regular basis is imperative
 
+## What To Do When You Make A Mistake?
+
+When you recognize you have made a mistake and your performance is less than you would like, your next, critical, step is to address the issue - no judgment or criticism.
+
+Train yourself to look at situations and experiences with an open mind. Instead of berating yourself for messing 'IT' up, try to accept what you have done (or not done) and ask yourself "What am I going to do differently next time?" This doesn't mean that you ignore your faults or problems, but that you focus on improving them and getting better results.
+
 ## Explanatory Styles
 
 ![Imgur](https://i.imgur.com/otwfp8P.png)
