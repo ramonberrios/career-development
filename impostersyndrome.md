@@ -57,6 +57,18 @@ With this explanatory style Mike is at risk of giving up on himself, is less lik
 
 ![Imgur](https://i.imgur.com/z1fMuPm.png)
 
+#### Optimism vs Pessimism A Real Life Example
+How 2 Team Leaders Handled the Same Productivity Improvement Challenge
+
+Several years ago, I worked with two Team Leaders from opposite shifts. And two very different ways of thinking, you are unlikely to come across! Talk about optimism vs pessimism - these guys were almost polar opposites.
+There was a drive within the plant, to improve productivity by around 30%, and at the same time to decrease scrap rates by about 12%.
+The Pessimist's response: "This is impossible, can't be done, why should we even try to achieve such ridiculous targets?" The Optimistic Team Leader's response "Hmm, going to be tough to get, but let's see what we can do". Talk about a classic optimism vs pessimism response!
+Within about six months, the Optimist's team had taken significant strides toward achieving both goals, and they were talking about how they were going to celebrate when they did reach the targets. The Pessimist's team had made some improvements, but only minimal, morale had slipped even further, and they were accusing the optimist's team of all sorts of under-hand behavior. The Pessimist Team Leader had become very defensive about why his team hadn't achieved similar results.
+I was asked to work closely with the Pessimistic Team Leader, to see if I could help him to achieve the targets. Because of his world-view - "things don't go well/it's all too hard etc". I decided the only area I would work on with him, was to help him to shift to a more Optimistic view point - technically he knew all he needed, to help his team to make the improvements the business wanted.
+Each day, I would challenge him to look for the things that were going right, and reward himself and his team, I asked him to be aware of how he was responding to new ideas/challenges, and to start to look for reasons why something might work, rather than why it wouldn't work, and shouldn't bother trying.
+The shift was slow, but as he became more focused on looking for the opportunities vs the obstacles, his behavior changed, and as his behavior changed so too did his, (and his team's), results.
+One of the turning points for him, was when I shared with him information about how to control his self-talk so that it led him more to the thinking patterns of success, than of 'give-up-itis'!
+
 #### Steps to overcome imposter syndrome
 1) Recognize that it exsist
 
