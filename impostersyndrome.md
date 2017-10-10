@@ -67,3 +67,5 @@ With this explanatory style Mike is at risk of giving up on himself, is less lik
 7) Be proud of being humble.
 
 8) Remember that it’s okay to seek help from others, and that even the best do it.
+
+![Imgur](https://i.imgur.com/l8HRu49.png)
