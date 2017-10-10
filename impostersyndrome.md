@@ -41,7 +41,7 @@ Consider two people, Mike and Ike, who both apply for a job at Vandelay Industri
 
 With this explanatory style Mike is at risk of giving up on himself, is less likely to try again and is also more vulnerable to depression.
 
-##### In contrast, Ben is an optimist. Faced with the identical setback he assumes the cause is 
+##### In contrast, Ike is an optimist. Faced with the identical setback he assumes the cause is 
 
 * non-personal (the best canidate got it)
 
