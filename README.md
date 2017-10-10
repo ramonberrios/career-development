@@ -36,6 +36,7 @@ Before we can begin we need to make sure we have some basics set up. This should
 * Create <a href="https://trello.com/">Trello Account</a>
 * Create <a href="https://slack.com/">Slack Account</a>
 * Create <a href="http://creddle.io/">Creddle Account</a> - Optional for resume creation
+* Reading <a href="https://www.experian.com/blogs/ask-experian/credit-education/report-basics/understanding-your-experian-credit-report/">Credit Report</a>
 
 
 <table>
