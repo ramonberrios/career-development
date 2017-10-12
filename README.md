@@ -25,7 +25,7 @@ The Careers Team will help you build a foundation for your current and post empl
 
 ### Careers Development Schedule
 
-Career Development Classes are scheduled to run each day from 9am - 10am. Depending on class needs and scheduling conflicts this time is subject to change
+Career Development Classes are scheduled to run each day for one hour at the same start and end time given at the beginning of the training. Any changes. Depending on class needs and scheduling conflicts this time is subject to change
 
 ### Prep Work
 Before we can begin we need to make sure we have some basics set up. This should be completed prior to the first class
