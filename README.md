@@ -32,6 +32,7 @@ Before we can begin we need to make sure we have some basics set up. This should
 
 * Create <a href="https://github.com/">Github Account</a>
 * Create <a href="https://www.linkedin.com">LinkedIn Account</a>
+* Create <a href="http://www.garysguide.com/events">Garys Guide Account</a>
 * Create <a href="https://www.meetup.com/">Meetup Account</a>
 * Create <a href="https://trello.com/">Trello Account</a>
 * Create <a href="https://slack.com/">Slack Account</a>
