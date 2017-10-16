@@ -36,7 +36,7 @@ with on LinkedIn.
 ## Let's Talk Quality vs Quantity
 ![Imgur](https://i.imgur.com/p4kS51f.jpg)
 
-#####Questions to discuss as a group
+##### Questions to discuss as a group
 
 * Do we know how many connections we have and where to locate them?
 * Where have our connection came from? School, Work, Personal Friends, etc.
@@ -46,13 +46,13 @@ with on LinkedIn.
 
 Most professionals of the younger generation may have been lectured by  seasoned professionals about how the art of networking has changed over the years.
 
-#####"You have Facebook, Twitter and LinkedIn- back in my day we had to work hard to network! You should have better connections than anyone!"
+##### "You have Facebook, Twitter and LinkedIn- back in my day we had to work hard to network! You should have better connections than anyone!"
 
-#####How has networking in your opinion, changed over the years?
+##### How has networking in your opinion, changed over the years?
 
 People in todays generation have grown up with social media outlets, and therefore have “friends”, “followers” and “connections” dating back for a good portion of our lives. So we have become accustomed to quantity.
 
-#####"We don’t see hand-writen thank you notes, cold-call prospective employers."
+##### "We don’t see hand-writen thank you notes, cold-call prospective employers."
 
 Everything is available online at our fingertips. Which is good and bad. The problem is the (im)balance between quality and quantity.
 We have even mastered the art of sending a request to “connect” with someone on LinkedIn. Yet as skillful as we may be, the fact is ANYONE else can do this, and most people are. So we all have hundreds of contacts. However, developing a quality connection is more difficult than ever.
