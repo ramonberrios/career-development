@@ -68,6 +68,6 @@ The likes of Facebook, Twitter, LinkedIn and social media in general have caused
 * If you are seeking advice or insight on a company or an industry where you don't have much experience. If you don't have knowledge, find someone who does, through someone you know.
 
 ### Let's work on finding connections
-* Google Bulleon Search - Let's find job titles and companies to add to our trello board
+* Google Boolean Search - Let's find job titles and companies to add to our trello board
 * Meetup.com - Search organizers and attendees to add toTrello
 * Advance LinkedIn Search
