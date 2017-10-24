@@ -1,6 +1,3 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DOUTe9mLQRk" frameborder="0" allowfullscreen></iframe>
-
-
 # Imposter Syndrome
 
 ![Imgur](https://i.imgur.com/bhZrC1q.png)
