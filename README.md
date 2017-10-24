@@ -65,13 +65,12 @@ Welcome to our first week! I'm excited to kick off this journey with you.
 ### Monday
 
 * Overview of CTS partnership with Per Scholas
-* Group discussion on telling your story and the importance of perfecting your first impression
-* Understanding the job requirements (tech vs. soft skills)
 
 ### Tuesday
 
-* Exercise: [Assess your soft skills](./softskills.md)
-* Problem solving and decision making
+* Understanding the job requirements (tech vs. soft skills)
+* Tech Talks - One student per day to complete a 5-10 min demo on a tech related topic
+* Exercise: "Assess your soft skills"
 
 ### Wednesday
 
