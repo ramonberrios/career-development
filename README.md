@@ -74,19 +74,16 @@ Welcome to our first week! I'm excited to kick off this journey with you.
 
 ### Wednesday
 
-* [Review Sample Pitch](./LinkedIn.md)
-* Organizing your time around tasks (onsite vs remote)
-* [Input Story into Resume, LinkedIn, Cover Letter, In Person Pitch](./LinkedIn.md)
+* Problem solving and decision making (resources/activity/slides needed)
 
 ### Thursday
 
-* Exercise: [Assess your soft skills](./softskills.md)
-* Problem solving and decision making
+* Organizing your time around tasks (onsite vs remote) (resources/activity/slides needed)
 
 ### Friday
 
-* Exercise: [Assess your soft skills](./softskills.md)
-* Problem solving and decision making
+* Task/Topic Needed (resources/activity/slides needed)
+
 
 ## Week 2
 
