@@ -137,55 +137,28 @@ Welcome to our first week! I'm excited to kick off this journey with you.
 
 ### Monday
 
-* Exercise: [Imposter Syndrome](./impostersyndrome.md)
-* Problem solving and decision making
+* Career Plan assessment (resources/activity/slides needed)
 
 ### Tuesday
 
-* Exercise: [Dunning-Kruger Effect](./dunningkruger.md)
-* Problem solving and decision making
+* Build your portfolio: Resume, Marketing Pitch, LinkedIn (resources/activity/slides needed)
 
 ### Wednesday
 
-* Exercise: [Assess your soft skills](./softskills.md)
-* Problem solving and decision making
+* Interview prep.guides, Personal Branding & Networking (resources/activity/slides needed)
 
 ### Thursday
 
-* Exercise: [Assess your soft skills](./softskills.md)
-* Problem solving and decision making
+* Task/Topic Needed (resources/activity/slides needed)
 
 ### Friday
 
-* Exercise: [Assess your soft skills](./softskills.md)
-* Problem solving and decision making
+* Task/Topic Needed (resources/activity/slides needed)
 
 ## Week 6
 
-### Monday
-
-* Exercise: [Assess your soft skills](./softskills.md)
-* Problem solving and decision making
-
-### Tuesday
-
-* Exercise: [Assess your soft skills](./softskills.md)
-* Problem solving and decision making
-
-### Wednesday
-
-* Exercise: [Assess your soft skills](./softskills.md)
-* Problem solving and decision making
-
-### Thursday
-
-* Exercise: [Assess your soft skills](./softskills.md)
-* Problem solving and decision making
-
-### Friday
-
-* Exercise: [Assess your soft skills](./softskills.md)
-* Problem solving and decision making
+* Peer to peer mock interview (on-site) (One day needed for 3 hours)
+* Collect and provide feedback
 
 ## Week 7
 
