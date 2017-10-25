@@ -2,7 +2,7 @@
 
 # Career Development
 
-## Career Support Guide - Quality Engineering 
+## Career Support Guide
 
 Congratulations on being accepted to the Quality Engineering Training. In this guide, will be everything that will be covered over the next 8 weeks. The Careers Team is excited to work with you on your journey through this course and into your career.
 
