@@ -4,7 +4,7 @@
 
 ## Career Support Guide
 
-Congratulations on being accepted to the Quality Engineering Training. In this guide, will be everything that will be covered over the next 8 weeks. The Careers Team is excited to work with you on your journey through this course and into your career.
+Congratulations on being accepted to the Plaform by Per Scholas Training. In this guide, will be everything that will be covered over the next 10 weeks. The Careers Team is excited to work with you on your journey through this course and into your career.
 
 The Careers Team will help you build a foundation for your current and post employment jouney. We will provide you with the tools, resources, are best practices.
 
