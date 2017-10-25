@@ -162,64 +162,21 @@ Welcome to our first week! I'm excited to kick off this journey with you.
 
 ## Week 7
 
-### Monday
-
-* Exercise: [Assess your soft skills](./softskills.md)
-* Problem solving and decision making
-
-### Tuesday
-
-* Exercise: [Assess your soft skills](./softskills.md)
-* Problem solving and decision making
-
-### Wednesday
-
-* Exercise: [Assess your soft skills](./softskills.md)
-* Problem solving and decision making
-
-### Thursday
-
-* Exercise: [Assess your soft skills](./softskills.md)
-* Problem solving and decision making
-
-### Friday
-
-* Exercise: [Assess your soft skills](./softskills.md)
-* Problem solving and decision making
+* 1:1 Sessions throughout week. No in-class sessions
+* Interview prep for Cognizant 
+* Finalize resume/LinkedIn
 
 ## Week 8
 
-### Monday
+* No in-class sessions
+* 1:1 support as needed
 
-* Exercise: [Assess your soft skills](./softskills.md)
-* Problem solving and decision making
+## Week 9
 
-### Tuesday
+* No in-class sessions
+* 1:1 support as needed
 
-* Exercise: [Assess your soft skills](./softskills.md)
-* Problem solving and decision making
+## Week 10
 
-### Wednesday
-
-* Exercise: [Assess your soft skills](./softskills.md)
-* Problem solving and decision making
-
-### Thursday
-
-* Exercise: [Assess your soft skills](./softskills.md)
-* Problem solving and decision making
-
-### Friday
-
-* Exercise: [Assess your soft skills](./softskills.md)
-* Problem solving and decision making
-
-### Prep for Next Week
-
-* Continue working on your pitch, get comfortable with talking about yourself
-* Have current/old resume for content transfer
-
-
-### Stretch Activities
-
-* Transfer resume content to creddle.io account or begin working on resume draft
+* No in-class sessions
+* 1:1 support as needed
