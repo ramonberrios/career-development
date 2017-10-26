@@ -90,7 +90,7 @@ Welcome to our first week! I'm excited to kick off this journey with you.
 
 ### Monday
 
-* Consulting skills and Customer Service (resources/activity/slides needed)
+* [Customer Service](./customerservice.md) (resources/activity/slides needed)
 
 ### Tuesday
 
