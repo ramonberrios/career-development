@@ -75,6 +75,7 @@ Welcome to our first week! I'm excited to kick off this journey with you.
 ### Wednesday
 
 * Discussing [Imposter Syndrome](./impostersyndrome.md)
+* <a href="http://www.lcldnet.org/media/mce_filebrowser/2016/04/20/VKC-Impostor-Syndrome-Self-Assessment-Tool-Final.pdf">self assessment</a> on imposter syndrome
 
 ### Thursday
 
