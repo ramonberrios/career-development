@@ -103,6 +103,7 @@ Welcome to our first week! I'm excited to kick off this journey with you.
 ### Thursday
 
 * Creating/Strengthing connections through [LinkedIn](./linkedin.md)
+* Understanding the difference between ***"Quality vs Quantity"***
 
 ### Friday
 
