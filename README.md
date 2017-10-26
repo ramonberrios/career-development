@@ -102,7 +102,7 @@ Welcome to our first week! I'm excited to kick off this journey with you.
 
 ### Thursday
 
-* Task/Topic Needed (resources/activity/slides needed)
+* Creating/Strengthing connections through [LinkedIn](./linkedin.md)
 
 ### Friday
 
