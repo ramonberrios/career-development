@@ -1,1 +1,1 @@
-Consulting skills and Customer Service (resources/activity/slides needed)
+![Imgur](https://i.imgur.com/7JLGVcU.png)
