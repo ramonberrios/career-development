@@ -74,7 +74,7 @@ Welcome to our first week! I'm excited to kick off this journey with you.
 
 ### Wednesday
 
-* [Imposter Syndrome](./impostersymdrome.md)
+* Discussing [Imposter Syndrome](./impostersyndrome.md)
 
 ### Thursday
 
