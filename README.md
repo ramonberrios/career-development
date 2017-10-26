@@ -74,15 +74,15 @@ Welcome to our first week! I'm excited to kick off this journey with you.
 
 ### Wednesday
 
-* Problem solving and decision making (resources/activity/slides needed)
+* [Imposter Syndrome](./impostersymdrome.md)
 
 ### Thursday
 
-* Organizing your time around tasks (onsite vs remote) (resources/activity/slides needed)
+* Problem solving and decision making (resources/activity/slides needed)
 
 ### Friday
 
-* Task/Topic Needed (resources/activity/slides needed)
+* Organizing your time around tasks (onsite vs remote) (resources/activity/slides needed)
 
 
 ## Week 2
