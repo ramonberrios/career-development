@@ -107,7 +107,7 @@ Welcome to our first week! I'm excited to kick off this journey with you.
 
 ### Friday
 
-* Task/Topic Needed (resources/activity/slides needed)
+* Work on creating [introductions](./introductions.md) via LinkedIn
 
 ## Week 3
 
