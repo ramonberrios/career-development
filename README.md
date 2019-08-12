@@ -59,7 +59,7 @@ Welcome to Career Week! I'm excited to kick off this journey with you. Today we 
 * Group discussion on telling your story and the importance of perfecting your first impression
 * [Questions to answer to help craft your story](./Resume.md)
 * [Review Sample Pitch](./LinkedIn.md)
-* [Input Story into Resume, LinkedIn, Cover Letter, In Person Pitch](./LinkedIn.md)
+* [Input Story into Resume, LinkedIn, Cover Letter, In Person Pitch](./linkedin.md)
 
 
 ### Prep for Next Week
