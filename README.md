@@ -1,43 +1,31 @@
 ![Imgur](https://i.imgur.com/Zr235Mq.jpg)
 
-# Career Development
+# Tech Fellows Career Readiness Guide
+A guide to career readiness in-class sessions
 
-## Career Support Guide
+Congratulations on being accepted to the Tech Fellows Course. In this guide, will be everything that will be covered over the next 12 weeks. The Per Scholas team is excited to work with you on your journey through this course and into your career with Cognizant.
 
-Congratulations on being accepted to the Plaform by Per Scholas Training. In this guide, will be everything that will be covered over the next 10 weeks. The Careers Team is excited to work with you on your journey through this course and into your career.
-
-The Careers Team will help you build a foundation for your current and post employment jouney. We will provide you with the tools, resources, are best practices.
+The Per Scholas Team will help you build a foundation for your upcoming interview with Cognizant. We will provide you with the tools, resources, are best practices.
 
 ### Contact Information
 
-##### Ramon Berrios, Manager, Career Advancement
-
+- Ramon Berrios - Manager, Employer Relations
 - Email - rberrios@perscholas.org
-- Phone - 929-360-0822 Ext. 406
 - LinkedIn - <a href="https://www.linkedin.com/in/ramonberrios/">Ramon Berrios</a>
 - Github - <a href="https://github.com/ramonberrios">ramonberrios</a>
 
-##### Zamira Kamal, Senior Manager, Partnerships
+### Careers Classes Schedule
 
-- Email - zkamal@perscholas.org
-- Phone - 929-360-0822 Ext. 406
-- LinkedIn - <a href="https://www.linkedin.com/in/zamirakamal/">Zamira Kamal</a>
-
-### Careers Development Schedule
-
-Career Development Classes are scheduled to run each day for one hour at the same start and end time given at the beginning of the training. Any changes. Depending on class needs and scheduling conflicts this time is subject to change
+Career Classes run Thursdays from 1pm - 5pm on the selected weeks stated below.
 
 ### Prep Work
 Before we can begin we need to make sure we have some basics set up. This should be completed prior to the first class
-
 * Create <a href="https://github.com/">Github Account</a>
 * Create <a href="https://www.linkedin.com">LinkedIn Account</a>
-* Create <a href="http://www.garysguide.com/events">Garys Guide Account</a>
 * Create <a href="https://www.meetup.com/">Meetup Account</a>
-* Create <a href="https://trello.com/">Trello Account</a>
 * Create <a href="https://slack.com/">Slack Account</a>
-* Create <a href="http://creddle.io/">Creddle Account</a> - Optional for resume creation
-* Reading <a href="https://www.experian.com/blogs/ask-experian/credit-education/report-basics/understanding-your-experian-credit-report/">Credit Report</a>
+
+
 
 
 <table>
@@ -48,137 +36,241 @@ Before we can begin we need to make sure we have some basics set up. This should
   <tr>
   <td><a href="#week-1">Week 1</a></a></td>
   <td><a href="#week-2">Week 2</a></td>
-  <td><a href="#week-3">Week 3</a></td>
-  <td><a href="#week-4">Week 4</a></td>
-  <td><a href="#week-5">Week 5</a></td>
-  <td><a href="#week-6">Week 6</a></td>
-  <td><a href="#week-7">Week 7</a></td>
-  <td><a href="#week-8">Week 8</a></td>
+  <td><a href="#wednesday">Week 3</a></td>
+  <td><a href="#thursday">Week 4</a></td>
+  <td><a href="#friday">Week 5</a></td>
+  <td><a href="#friday">Week 6</a></td>
+  <td><a href="#friday">Week 7</a></td>
+  <td><a href="#friday">Week 8</a></td>
+  <td><a href="#friday">Week 9</a></td>
+  <td><a href="#friday">Week 10</a></td>
+  <td><a href="#friday">Week 11</a></td>
+  <td><a href="#friday">Week 12</a></td>
   </tr>
 </table>
 
 
 ## Week 1
 
-Welcome to our first week! I'm excited to kick off this journey with you.
+Welcome to Career Week! I'm excited to kick off this journey with you. Today we will begin crafting your story, or elevator pitch
 
-### Monday
+### Activities
 
-* Overview of CTS partnership with Per Scholas
+* Group discussion on telling your story and the importance of perfecting your first impression
+* [Questions to answer to help craft your story](./Resume.md)
+* [Review Sample Pitch](./LinkedIn.md)
+* [Input Story into Resume, LinkedIn, Cover Letter, In Person Pitch](./LinkedIn.md)
 
-### Tuesday
 
-* Understanding the job requirements (tech vs. soft skills)
-* Tech Talks - One student per day to complete a 5-10 min demo on a tech related topic
-* Exercise: "Assess your soft skills"
+### Prep for Next Week
 
-### Wednesday
+* Continue working on your pitch, get comfortable with talking about yourself
+* Have current/old resume for content transfer
 
-* Discussing [Imposter Syndrome](./impostersyndrome.md)
-* <a href="http://www.lcldnet.org/media/mce_filebrowser/2016/04/20/VKC-Impostor-Syndrome-Self-Assessment-Tool-Final.pdf">self assessment</a> on imposter syndrome
 
-### Thursday
+### Stretch Activities
 
-* Problem solving and decision making (resources/activity/slides needed)
-
-### Friday
-
-* Organizing your time around tasks (onsite vs remote) (resources/activity/slides needed)
-
+* Transfer resume content to creddle.io account or begin working on resume draft
 
 ## Week 2
 
-### Monday
+Today we will focus on creating a first draft of your technical resume
 
-* [Customer Service](./customerservice.md) (resources/activity/slides needed)
+### Activities
 
-### Tuesday
+* Group discussion on components of your resume - What to put in, what to leave out
+* [Chronological vs. Functional](./Resume.md)
+* [Review Sample Resumes](./LinkedIn.md)
+* [Input Story into Resume, LinkedIn, Cover Letter, In Person Pitch](./LinkedIn.md)
 
-* Communication (verbal and nonverbal) (resources/activity/slides needed)
 
-### Wednesday
+### Prep for Next Week
 
-* Presentation and public speaking (resources/activity/slides needed)
+* Practice your pitch!
+* Have your LinkedIn account created 
 
-### Thursday
 
-* Creating/Strengthing connections through [LinkedIn](./linkedin.md)
-* Understanding the difference between ***"Quality vs Quantity"***
+### Stretch Activities
 
-### Friday
-
-* Work on creating [introductions](./introductions.md) via LinkedIn
+* Review former GA students LinkedIn profiles to see how they chose their digital branding to look
 
 ## Week 3
 
-### Monday
+Today we will focus on building a robust LinkedIn Profile
 
-* Business Project Management skills (resources/activity/slides needed)
+### Activities
 
-### Tuesday
+* Group discussion on Social Media - Digital Branding 
+* [Review Personal Branding Video](./Resume.md) - Group discussion
+* [Adding meaningful connections](./LinkedIn.md)
+* [Review sample LinkedIn Request](./LinkedIn.md)
 
-* Working in the teams (resources/activity/slides needed)
 
-### Wednesday
+### Prep for Next Week
 
-* Leadership (resources/activity/slides needed)
-
-### Thursday
-
-* Task/Topic Needed (resources/activity/slides needed)
-
-### Friday
-
-* Task/Topic Needed (resources/activity/slides needed)
+* Practice your pitch!
+* Continue working on Resume and LinkedIn Profile
 
 ## Week 4
 
-* 1:1 Sessions throughout week. No in-class sessions
+Time to practice what we have covered so far
+
+### Activities
+
+* Group recap on Week 1-3. Any tensions? How is the workflow working for you?
+* [Peer to peer Q&A sheet](./Resume.md) - Provide actionable feedback (if any)
+* Group Resume Review - Provide actionable feedback (if any)
+* Group LinkedIn Review - Provide actionable feedback (if any)
+
+
+### Prep for Next Week
+
+* Question - Where do you see yourself directly after graduation?
+
+
+### Stretch Activities
+
+* Create an <a href="https://www.upwork.com/">Upwork Account</a> - Freelance work
 
 ## Week 5
 
-### Monday
+Understand Career Options - What is out there after I graduate?
 
-* Career Plan assessment (resources/activity/slides needed)
+### Activities
 
-### Tuesday
+* Group discussion on different types of employment options
+* [Guide to understanding Freelance/Contract Roles](./Resume.md)
+* [Video on "Protect yourself as a business owner"](./Resume.md)
+* Understanding different types of compensation and their value
 
-* Build your portfolio: Resume, Marketing Pitch, LinkedIn (resources/activity/slides needed)
 
-### Wednesday
+### Prep for Next Week
 
-* Interview prep.guides, Personal Branding & Networking (resources/activity/slides needed)
+* Review the online article <a href="https://blog.trello.com/using-trello-for-a-job-search-less-stress-more-process">Using Trello For A Job Search</a>
 
-### Thursday
-
-* Task/Topic Needed (resources/activity/slides needed)
-
-### Friday
-
-* Task/Topic Needed (resources/activity/slides needed)
 
 ## Week 6
 
-* Peer to peer mock interview (on-site) (One day needed for 3 hours)
-* Collect and provide feedback
+Trello Board - Follow-Up/Job Search
+
+### Activities
+
+* Group discussion "How do we build a meaningful connection and track it"
+* Group discussion "I found a company I'm interested in, now what"
+* [Review Sample Trello Board](./Resume.md)
+
+
+### Prep for Next Week
+
+* Fill in profile information for your Meetup Account
+
+
+### Stretch Activities
+
+* View video on Impostor Syndrome <a href="https://www.youtube.com/watch?v=1i8ylq4j_EY">Julie Pagano: It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech</a>
 
 ## Week 7
 
-* 1:1 Sessions throughout week. No in-class sessions
-* Interview prep for Cognizant 
-* Finalize resume/LinkedIn
+Meetups, Tech Events, Hackathons, oh my!
+
+### Activities
+
+* Group Discussion "Which meetups are right for me" - Don't go alone, support each other!
+* [When and how to close the conversation](./Resume.md) - Leave on a high note like George Costanza!!
+* [Google Chrome Extension - Rapportive](./Resume.md)
+
+
+### Prep for Next Week
+
+* Locate two linkedin connections to create a mock "outreach" too
+
+
+### Stretch Activities
+
+* Sign up and attend 1 Meetup, review attendee list and seek out and connect to 2 attendees during meetup
+* Create business cards for in person networking
 
 ## Week 8
 
-* No in-class sessions
-* 1:1 support as needed
+Mock Outreach - Let's Connect
+
+### Activities
+
+* Group Discussion "Cold and warm outreach"
+* [Review Sample Cold Outreach](./Resume.md)
+* [Review Sample Warm Outreach](./Resume.md)
+* Create one warm/cold outreach, create one LinkenIn Introduction
+
+
+### Prep for Next Week
+
+* Question - What's your preferred stack? Full, Front/Back End?
+* Question - What specific languages/technologies do you want to work with?
+
 
 ## Week 9
 
-* No in-class sessions
-* 1:1 support as needed
+Job Searching - Where are the jobs?
+
+### Activities
+
+* Group Discussion "How have we found jobs in the past?" and "Who do you know?
+* [Job Boards - Best Practices](./Resume.md)
+* [LinkedIn Advance Searching](./Resume.md)
+* [Boolean Searching](./Resume.md)
+
+
+### Prep for Next Week
+
+* [Soft Skills Questions](./Resume.md) - Review and answer questions for next week
+
 
 ## Week 10
 
-* No in-class sessions
-* 1:1 support as needed
+Mock interview preparation
+
+### Activities
+
+* Group Discussion "Importance of answering soft skills questions" 
+* [Peer to peer practice](./Resume.md)
+* Group Discussion "Let's review responses and provide support/feedback"
+
+
+### Prep for Next Week
+
+* [Soft Skills Questions](./Resume.md) - Revise any responses to questions
+
+
+### Stretch Activities
+
+* Sign up and attend 1 Meetup, review attendee list and seek out and connect to 2 attendees during meetup
+* Create business cards for in person networking
+
+## Week 11
+
+Almost to the finish line
+
+### Activities
+
+* Group Discussion "Negotiations, Understand salary/hourly and contract/freelance pay and benefits/perks" - Know your runway
+* [Peer to peer practice](./Resume.md)
+* Group Discussion "How comfortable are you interviewing? Any tensions? open discussion"
+
+
+### Prep for Next Week
+
+* Complete any digital content left for final review
+* Begin applying/networking for new opportunities - Track in Trello
+
+
+## Week 12
+
+Putting it all together
+
+### Activities
+
+* Group Discussion "Now what? Let's remain organized after life at GA"
+* [Checklist](./Resume.md) Digital Branding, Interview Readiness
+* Final review 1:1 with Career Coach
+* [Ramon's Calendar](./resume.md) Add a time slot for us to follow up!
+
