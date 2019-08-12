@@ -36,16 +36,16 @@ Before we can begin we need to make sure we have some basics set up. This should
   <tr>
   <td><a href="#week-1">Week 1</a></a></td>
   <td><a href="#week-2">Week 2</a></td>
-  <td><a href="#wednesday">Week 3</a></td>
-  <td><a href="#thursday">Week 4</a></td>
-  <td><a href="#friday">Week 5</a></td>
-  <td><a href="#friday">Week 6</a></td>
-  <td><a href="#friday">Week 7</a></td>
-  <td><a href="#friday">Week 8</a></td>
-  <td><a href="#friday">Week 9</a></td>
-  <td><a href="#friday">Week 10</a></td>
-  <td><a href="#friday">Week 11</a></td>
-  <td><a href="#friday">Week 12</a></td>
+  <td><a href="#week-3">Week 3</a></td>
+  <td><a href="#week-4">Week 4</a></td>
+  <td><a href="#week-5">Week 5</a></td>
+  <td><a href="#week-6">Week 6</a></td>
+  <td><a href="#week-7">Week 7</a></td>
+  <td><a href="#week-8">Week 8</a></td>
+  <td><a href="#week-9">Week 9</a></td>
+  <td><a href="#week-10">Week 10</a></td>
+  <td><a href="#week-11">Week 11</a></td>
+  <td><a href="#week-12">Week 12</a></td>
   </tr>
 </table>
 
